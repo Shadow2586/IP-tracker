@@ -4,7 +4,7 @@ __author__  = 'Shadow'
 
 
 
-.import sys, os
+import sys, os
 from core.IpGeoLocationLib import IpGeoLocationLib
 from core.Logger import Logger
 from core.Menu import parser,args,banner
